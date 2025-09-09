@@ -1,0 +1,19 @@
+{
+  "name": "my-project-ts",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "01-ts-basics",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.9.36",
+    "typescript": "~5.8.3",
+    "vite": "^7.1.5"
+  },
+  "dependencies": {
+    "axios": "^1.11.0"
+  }
+}
